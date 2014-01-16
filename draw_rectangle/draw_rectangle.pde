@@ -4,8 +4,13 @@ void setup() {
 }
 
 void draw() {
-  fill(100, 255, 255);
-  rect(mouseX, mouseY, 40, 40);
+  
+  int red = (int)random(0,255);
+  fill(red, 255, 255);
+  
+  if(mousePressed) {
+    rect(mouseX, mouseY, 40, 40);
+  }
   
   if(keyPressed) {
     background(255,100,100);
