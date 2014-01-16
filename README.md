@@ -9,7 +9,8 @@ minutes with 2-3 mentors and 5 kids.
 
 ##
 
-There are 8 git tags, named 'step-1' .. 'step-8'
+There are 8 git tags, named `step-1` .. `step-8`, just checkout one step at
+the time.
 
 ```
 git co step-1
@@ -43,7 +44,7 @@ git co step-1
 * set background color to something new when a key is pressed
 
 ### Step-7 - Draw when mouse is pressed
-* Only pain rectangle when mouse is pressed
+* only paint rectangle when mouse is pressed
 
 ### Step-8 - Random color is fun
 * to make it more impressive, try a random number for the color :)
