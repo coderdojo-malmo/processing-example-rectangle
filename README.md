@@ -7,7 +7,7 @@ Setup your screen, draw a rectangle, move it around and change some colors.
 Installing Processing and completing the following 8 steps took us about 90
 minutes with 2-3 mentors and 5 kids.
 
-##
+## Instructions
 
 There are 8 git tags, named `step-1` .. `step-8`, just checkout one step at
 the time.
