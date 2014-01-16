@@ -5,7 +5,9 @@ void setup() {
 
 void draw() {
 
-  fill(100, 255, 255);
+  int red = (int)random(0,255);
+  
+  fill(red, 255, 255);
 
   if(mousePressed) {
     rect(mouseX, mouseY, 40, 40);
